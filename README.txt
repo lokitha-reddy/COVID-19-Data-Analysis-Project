@@ -1,4 +1,4 @@
-COVID-19 Data Analysis Project
+## COVID-19 Data Analysis Project
 Overview:
 
 This project analyzes worldwide COVID-19 data to explore trends, identify hotspots, and compare country-wise cases. Using Python and data visualization libraries, it provides insights into the spread of COVID-19.
